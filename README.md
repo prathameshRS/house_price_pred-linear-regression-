@@ -81,4 +81,4 @@ pythonnew_house = {
 
 Predicted Price → $238,000
 
-Follow e On Medium :https://medium.com/@prathameshsahastrabuddhe2003
+Follow Me On Medium :https://medium.com/@prathameshsahastrabuddhe2003
